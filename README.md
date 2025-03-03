@@ -10,4 +10,4 @@ The current model, while lacking any predictive capability almost at all, is sti
 -Pre-processing data(normalizing continuous labels and ordinal/one-hot encoding categorical features\
 -hyper-parameter tuning and label selection\
 -NN design in terms of neuron and label count as well as choice of activation\
--getting PyTorch to actually recognize my GPU\
+-getting PyTorch to actually recognize my GPU
