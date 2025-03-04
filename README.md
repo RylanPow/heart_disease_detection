@@ -1,8 +1,12 @@
 # Heart Disease Detection
  
-Data from the "Heart Attack Prediction in the United States" data set on Kaggle
+Data from the "Indicators of Heart Disease" data set on Kaggle
+Data: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?resource=download
 
-### NOTE ABOUT THE DATA: 
+Note: this repo orignally used data which turned out to be synthetically generated fake data completely dvoid of 
+any actual signal or patterns.  This repo now trains the model on actual usable data.
+
+# (DEPRECATED) note about the data: 
 After having developed this model, it has come to my attention this data is synthetic and devoid of an actual signal. 
 While quite unfortunate in a hilarious way, this was still not a terrible learning experience.
 
